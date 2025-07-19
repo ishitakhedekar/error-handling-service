@@ -1,9 +1,14 @@
-# Ignore log files
-*.log
-
-# Ignore uploaded files
-/uploads/
-
 # Ignore build artifacts
 ErrorHandlingApi/bin/
 ErrorHandlingApi/obj/
+
+# .gitignore
+*.log
+*.dll
+*.exe
+*.pdb
+*.db
+*.DS_Store
+bin/
+obj/
+uploads/
